@@ -13,6 +13,8 @@ Este repositório contém os materiais e técnicas utilizadas na aula de hands-o
 
 As documentações da Microsoft são ótimas para os produtos citados. Consulte [aqui](https://docs.microsoft.com/pt-br/azure/cognitive-services/computer-vision/overview-ocr) para a API de pesquisa de Visão Computacional & OCR e [aqui](https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/) para a API do Form Recognizer
 
+Existe um trabalho acadêmico de conclusão de curso realizado por José Victor Feijó que aborda outras técnicas e que valem ser consultadas. Confira a dissertação [Análise e Classificação de imagens para aplicação de OCR em cupons fiscais](https://repositorio.ufsc.br/xmlui/handle/123456789/182212).
+
 No Google [Colab](https://colab.research.google.com/) eles já estão instalados 😄, exceto (Tesseract, PyTesseract e os SDKs do Azure).
 
 
