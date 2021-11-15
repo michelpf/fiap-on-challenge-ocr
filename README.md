@@ -14,8 +14,8 @@ Este repositório contém os materiais e técnicas utilizadas na aula de hands-o
 No Google [Colab](https://colab.research.google.com/) eles já estão instalados 😄, exceto (Tesseract, PyTesseract e os SDKs do Azure).
 
 
-## Laboratório de oCR
+## Laboratório
 
-Utilizando técnicas de processamento de imagens e algumas ferramentas de limpeza de imagem foram realizados alguns experimentos com 4 tipos de cupons fiscais com as abordagens com Tesseract e com as APIs de cloud pública do Azure, de Visão Computacional e de reconhecimento de formulários.
+Utilizando técnicas de processamento de imagens e algumas ferramentas de limpeza de imagem foram realizados alguns experimentos para análise de OCR com 4 tipos de cupons fiscais com as abordagens com Tesseract e com as APIs de cloud pública do Azure, de Visão Computacional e de reconhecimento de formulários.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-on-challenge-ocr/blob/master/hands-on-visao-computacional-ocr)
