@@ -18,4 +18,4 @@ No Google [Colab](https://colab.research.google.com/) eles já estão instalados
 
 Utilizando técnicas de processamento de imagens e algumas ferramentas de limpeza de imagem foram realizados alguns experimentos para análise de OCR com 4 tipos de cupons fiscais com as abordagens com Tesseract e com as APIs de cloud pública do Azure, de Visão Computacional e de reconhecimento de formulários.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-on-challenge-ocr/blob/master/hands-on-visao-computacional-ocr)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-on-challenge-ocr/blob/master/hands-on-visao-computacional-ocr.ipynb)
