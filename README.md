@@ -8,8 +8,10 @@ Este repositório contém os materiais e técnicas utilizadas na aula de hands-o
 * [Matplotlib](https://matplotlib.org/) 3.1.3 
 * [PyTesseract](https://matplotlib.org/) 0.1.5
 * [Tesseract](https://github.com/tesseract-ocr/tesseract) 4.1.1
-* [Azure Cognitive Services Computer Vision](azure-cognitiveservices-vision-computervision) 0.9.0
-* [Azure AI Form Recognizer](azure_ai_formrecognizer) 3.1.2
+* [Azure Cognitive Services Computer Vision](https://pypi.org/project/azure-cognitiveservices-vision-computervision/) 0.9.0
+* [Azure AI Form Recognizer](https://pypi.org/project/azure-ai-formrecognizer/) 3.1.2
+
+As documentações da Microsoft são ótimas para os produtos citados. Consulte [aqui](https://docs.microsoft.com/pt-br/azure/cognitive-services/computer-vision/overview-ocr) para a API de pesquisa de Visão Computacional & OCR e [aqui](https://docs.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/) para a API do Form Recognizer
 
 No Google [Colab](https://colab.research.google.com/) eles já estão instalados 😄, exceto (Tesseract, PyTesseract e os SDKs do Azure).
 
